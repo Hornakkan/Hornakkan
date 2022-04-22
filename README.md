@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning PHP, HTML, CSS, JS
 
 <!--
 **Hornakkan/Hornakkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

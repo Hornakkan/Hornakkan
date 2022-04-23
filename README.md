@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sebastien from France, got my first degree in development in year 2000 and recently started studying web development.
+I'm Sebastien from France, currently living in its North-Eastern part, in a beautiful region called Alsace. I got my first degree in development in year 2000 and recently started studying web development.
 
 <br />
 

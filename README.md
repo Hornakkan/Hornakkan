@@ -2,7 +2,7 @@
 
 I'm Sebastien from France, currently living in its North-Eastern part, in a beautiful region called Alsace. I got my first degree in development in year 2000 and recently started studying web development.
 
-I'm aiming at becoming a full time web developer.
+I'm aiming at becoming a full time web developer by the end of this year.
 
 <br />
 

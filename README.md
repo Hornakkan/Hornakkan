@@ -37,10 +37,12 @@ I'm aiming at becoming a full time web developer by the end of this year.
 
 <p>
   <a href="https://www.linkedin.com/in/sebastien-lacour"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=34 height=34 /></a>
-  <a href="https://twitter.com/Hornakkan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height=30/></a>
-</p>
-
 <!--
+  <a href="https://twitter.com/Hornakkan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height=30/></a>
+-->
+</p>
+<!--
+
 **Hornakkan/Hornakkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

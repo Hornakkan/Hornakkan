@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sebastien from France, currently living in its North-Eastern part, in a beautiful region called Alsace. I got my first degree in development in year 2000, years later I started studying web development.
+I'm Sebastien from France, currently living in its North-Eastern part, in a beautiful region called Alsace. I got my first degree in development in year 2000, years later I started studying web development on my own.
 
 I'm currently keeping on learning and improving but still doing what I love : coding !
 
@@ -29,6 +29,9 @@ I'm currently keeping on learning and improving but still doing what I love : co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=34 height=34 title="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" width=34 height=34 title="GIMP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=34 height=34 title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width=34 height=34 title="Gitlab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width=34 height=34 title="Composer"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width=34 height=34 title="Phpstorm"/>
 </p>
 
 <br />

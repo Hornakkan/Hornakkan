@@ -9,11 +9,11 @@ I'm currently keeping on learning and improving but still doing what I love : co
 ### Languages and tools I'm using/learning
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=34 height=34 title="HTML 5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=34 height=34 title="CSS 3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=34 height=34 title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=34 height=34 title="Tailwindcss"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=34 height=34 title="Sass"/>
+  <img style="display:inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=34 height=34 title="HTML 5"/>
+  <img style="display:inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=34 height=34 title="CSS 3"/>
+  <img style="display:inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=34 height=34 title="Bootstrap"/>
+  <img style="display:inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=34 height=34 title="Tailwindcss"/>
+  <img style="display:inline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=34 height=34 title="Sass"/>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=34 height=34 title="Javascript"/>
